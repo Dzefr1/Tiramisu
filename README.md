@@ -9,6 +9,9 @@ Main feature of this design is that it adds another joint with 360 angle of move
   
   Required materials - Only additional hardware needed for the conversion are M4 screws, which most likely you already have around
 
+##Print Settings
+
+
 ##Requierments/Part list
 
 3D printer, all parts are printable even on Voron 0 size printers.
@@ -25,6 +28,13 @@ Optional:
 Teardown of the lamp, nothing difficult there.
 Print orientation - suggestion is to print joints with holes vertically, others with studs horizontally.
 
+
+##Assets:
+Keith Moore - Microphone
+https://grabcad.com/library/shure-microphone-1
+
+LilMikey - Microphone Arm
+https://www.printables.com/model/159430-microphone-holder-for-mic-stand
 
 
 ##License
