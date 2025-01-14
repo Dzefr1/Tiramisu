@@ -1,9 +1,7 @@
 # Tiramisu
-Budget and rigid microphone stand costing only around 8$ considering you have donor Tertial lamp.
+Budget and rigid microphone stand costing only around 8$ considering you have a donor Tertial lamp.
 
-Conversion of IKEA's Terteal Lamp to microphone arm (holder)
-
-
+![Thumbnail](https://github.com/Dzefr1/Tiramisu/blob/main/Assets/Thumbnail1.png)
 
 ## Features
 
@@ -11,14 +9,12 @@ Main feature of this design is that it adds two  joints with 360 angle of moveme
 * Larger joint grip area - Additional hole for tightening screw in the middle of the joint, gripping walls of the extrusions more effectively than Tertial's design
 * Low amount of materials - Other that fillament only additional hardware needed for the conversion are M4 screws (or M4 threaded rod)
 * Voron 0 friendly
-
 > Original springs can be used if desired, cap's that hold springs are mountable on tightening screwhole, however additional 35mm M4 rod will be required.
 
 ## 3D Printing
 
 Most important thing is to **print joints vertically** with 100% infill,
-
-Recomended material is PETG due to bend in the joints.
+Tested and recomended material is PETG.
 
 ### Failures
 
@@ -31,42 +27,42 @@ First few prints of the joints broke after tightrning
 ## Requierments/Part list
 
 * IKEA's Terteal Lamp
+* M4 - 28mm Screws x4
 * Plastic ~260g (PETG recommended)
-* M4-22mm Screws x4
 * Grease (for rotating joints)
 
 Optional:
-  tbd...
+  tbd... (alternative version)
 
 ## Assembly
 
-Lamp needs to be teardown
+Build process should be quite self explanatory so I will write down only important notes.
+
 Additional plugs (Plug_Full) should be printed and inserted in extrusions (rods) to make them stiffer,
-you can re-use 4 original cable routing plugs or print them as well (Plug_Hollow).
+you can **re-use 4 original cable routing plugs** or print them as well (Plug_Hollow).
 
+Tolerances on joints are TIGHT and that's by design, sanding of round 360 degree joints is reqired to adjust fit and grease is only used on **1st_Joint** and **3rd_Joint**.
 
-
-## Assets:
-Keith Moore - Microphone
-https://grabcad.com/library/shure-microphone-1
-
-LilMikey - Microphone Arm
-https://www.printables.com/model/159430-microphone-holder-for-mic-stand
+<ins>When assembly is compleated all joints need to be tightened to minimize side tilt.<ins>
 
 ## Acknowledgments
 
-Inspiration
+Inspiration:
 * [Rode PSA1](https://rode.com/en-us/accessories/stands-bars/psa1) - Joint Tightening
 * [Elgato Wave Mic Arm LP](https://www.elgato.com/us/en/p/wave-mic-arm-lp) - Low Profile
 
-Resources (Used only for render)
+Resources:
 * [Parts from Terteal lamp](https://grabcad.com/library/ikea-tertial-2) by: Isabella Grebacken
+
+For rendering:
 * [Microphone Holder](https://www.printables.com/model/159430-microphone-holder-for-mic-stand) by: LilMekey
 * [Microphone 3D Model](https://grabcad.com/library/shure-microphone-1) by: Keith Moore
 
 ## Support 
 
-https://buymeacoffee.com/veljkot6r
+Like this and want more?
+
+<a href="https://buymeacoffee.com/veljkot6r" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## License
 
