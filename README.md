@@ -10,6 +10,7 @@ Main feature of this design is that it adds two  joints with 360 angle of moveme
 * Low amount of materials - Other that fillament only additional hardware needed for the conversion are M4 screws (or M4 threaded rod)
 * Voron 0 friendly
 > Original springs can be used if desired, cap's that hold springs are mountable on tightening screwhole, however additional 35mm M4 rod will be required.
+![movement](https://github.com/Dzefr1/Tiramisu/blob/main/Assets/Movement.png)
 
 ## 3D Printing
 
