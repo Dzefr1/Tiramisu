@@ -33,7 +33,8 @@ First few prints of the joints broke after tightrning
 * Grease (for rotating joints)
 
 Optional:
-  tbd... (alternative version)
+
+* M3 - 8mm or larger (for securing 2nd and 3rd joint)
 
 ## Assembly
 
@@ -67,6 +68,5 @@ Like this and want more?
 
 ## License
 
-[![CC4](https://licensebuttons.net/i/l/by-sa/ffffff/00/00/00/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
-
+![CC4](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 This work is licensed under CC BY-SA 4.0 
