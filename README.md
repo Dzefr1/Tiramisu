@@ -20,7 +20,7 @@ Tested and recommended material is PETG.
 
 ### Failures
 
-First few prints of the joints broke after tightening
+First few prints of the joints broke after tightening however, part printed vertically was still able to be tightened.
 > [!WARNING]  
 > If you print with infill less than 100% joints may break when tightening,
 > Print settings used on these parts are ABS+ 40% Cubic Infill.
