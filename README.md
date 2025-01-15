@@ -1,5 +1,5 @@
 # Tiramisu
-Budget and rigid microphone stand costing only around 8$ considering you have a donor Tertial lamp.
+Budget and rigid microphone stand costing only around 8$ (cost of plastic) considering you have a donor Tertial lamp.
 
 ![Thumbnail](https://github.com/Dzefr1/Tiramisu/blob/main/Assets/Thumbnail1.png)
 
@@ -7,26 +7,26 @@ Budget and rigid microphone stand costing only around 8$ considering you have a 
 
 Main feature of this design is that it adds two  joints with 360 angle of movement, other also notable features are:
 * Larger joint grip area - Additional hole for tightening screw in the middle of the joint, gripping walls of the extrusions more effectively than Tertial's design
-* Low amount of materials - Other that fillament only additional hardware needed for the conversion are M4 screws (or M4 threaded rod)
+* Low amount of materials - Other that filament only additional hardware needed for the conversion are M4 screws (or M4 threaded rod)
 * Voron 0 friendly
-> Original springs can be used if desired, cap's that hold springs are mountable on tightening screwhole, however additional 35mm M4 rod will be required.
+> Original springs can be used if desired, cap's that hold springs are mountable on tightening screw hole, however additional 35mm M4 rod will be required.
 
 ![movement](https://github.com/Dzefr1/Tiramisu/blob/main/Assets/Movement.png)
 
 ## 3D Printing
 
 Most important thing is to **print joints vertically** with 100% infill,
-Tested and recomended material is PETG.
+Tested and recommended material is PETG.
 
 ### Failures
 
-First few prints of the joints broke after tightrning
+First few prints of the joints broke after tightening
 > [!WARNING]  
 > If you print with infill less than 100% joints may break when tightening,
 > Print settings used on these parts are ABS+ 40% Cubic Infill.
 ![Failures](https://github.com/Dzefr1/Tiramisu/blob/main/Assets/failures.jpg)
 
-## Requierments/Part list
+## Requirements/Part list
 
 * IKEA's Terteal Lamp
 * M4 - 28mm Screws x4
@@ -44,9 +44,9 @@ Build process should be quite self explanatory so I will write down only importa
 Additional plugs (Plug_Full) should be printed and inserted in extrusions (rods) to make them stiffer,
 you can **re-use 4 original cable routing plugs** or print them as well (Plug_Hollow).
 
-Tolerances on joints are TIGHT and that's by design, sanding of round 360 degree joints is reqired to adjust fit and grease is only used on **1st_Joint** and **3rd_Joint**.
+Tolerances on joints are TIGHT and that's by design, sanding of round 360 degree joints is required to adjust fit and grease is only used on **1st_Joint** and **3rd_Joint**.
 
-<ins>When assembly is compleated all joints need to be tightened to minimize side tilt.<ins>
+<ins>When assembly is completed all joints need to be tightened to minimize side tilt.<ins>
 
 ## Acknowledgments
 
@@ -70,4 +70,4 @@ Like this and want more?
 ## License
 
 ![CC4](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
-This work is licensed under CC BY-SA 4.0 
+This work is licensed under CC BY-SA 4.0
